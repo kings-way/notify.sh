@@ -6,7 +6,7 @@ Shell scripts to send notification to IM (Telegram here) when commands end.
 
 	curl https://raw.githubusercontent.com/kings-way/notify/master/notify.sh >> ~/.bashrc
 
-	# then configure the API TOKEN and CHAT ID, even the api address.
+	# After configuring the API TOKEN, CHAT ID, or api address, you should run:
 	source ~/.bashrc
 
 ## Run
